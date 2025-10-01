@@ -1,3 +1,5 @@
+package ExerciciosDiversificados;
+
 import java.util.Scanner;
 
 public class verificaIdade {
@@ -14,5 +16,7 @@ public class verificaIdade {
         } else {
             System.out.println("IDOSO");
         }
+
+        fe.close();
     }
 }

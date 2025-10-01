@@ -1,3 +1,5 @@
+package ExerciciosDiversificados;
+
 import java.util.Scanner;
 
 public class VerificaNota {

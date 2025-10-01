@@ -1,3 +1,4 @@
+package ExerciciosDiversificados;
 
 import java.util.Scanner;
 

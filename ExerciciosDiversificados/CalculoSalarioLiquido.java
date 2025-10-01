@@ -1,4 +1,4 @@
-/*Baseado nas fórmulas abaixo, desenvolva uma rotina que calcule o salário líquido de um funcionário. Após o cálculo o programa deve apresentar o salário base e o salário líquido calculado.
+package ExerciciosDiversificados;/*Baseado nas fórmulas abaixo, desenvolva uma rotina que calcule o salário líquido de um funcionário. Após o cálculo o programa deve apresentar o salário base e o salário líquido calculado.
 
         SB = HT * VH
         TD = (PD / 100) * SB

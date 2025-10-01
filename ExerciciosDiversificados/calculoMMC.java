@@ -1,3 +1,5 @@
+package ExerciciosDiversificados;
+
 public class calculoMMC {
 
     // Função para calcular o MDC usando o algoritmo de Euclides

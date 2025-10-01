@@ -1,3 +1,5 @@
+package ExerciciosDiversificados;
+
 public class SimuladorDeFinanciamento {
     public static void main(String[] args) {
         double valorTotal = 30000;

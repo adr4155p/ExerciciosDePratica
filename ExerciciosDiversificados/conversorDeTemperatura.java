@@ -1,4 +1,4 @@
-/*Escreva um programa que realize a conversão de graus Celsius (C)  para graus Fahrenheit (F). Utilize a fórmula abaixo:
+package ExerciciosDiversificados;/*Escreva um programa que realize a conversão de graus Celsius (C)  para graus Fahrenheit (F). Utilize a fórmula abaixo:
 
 F = ( 9 C) 5
 */
