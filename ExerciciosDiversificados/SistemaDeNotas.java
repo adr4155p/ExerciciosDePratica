@@ -36,6 +36,7 @@ public class SistemaDeNotas {
             } else {
                 System.out.println("\nAluno reprovado!");
             }
+
             System.out.print("Deseja calcular uma nova média? (s/n): ");
             continuar = input.nextLine();
         } while (continuar.equalsIgnoreCase("s"));
